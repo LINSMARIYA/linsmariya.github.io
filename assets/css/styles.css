@@ -129,6 +129,12 @@ img{
   align-items: center;
   font-weight: var(--font-semi);
 }
+@media screen and (max-width: 568px){
+ 
+  .home__img{
+    width:80%;
+  }
+}
 @media screen and (max-width: 768px){
   .nav__menu{
     position: fixed;
@@ -416,7 +422,7 @@ img{
   }
   .home__img{
     width: 457px;
-    bottom: 15%;
+    bottom: 20%;
   }
 
   .about__container, .skills__container{
@@ -439,7 +445,13 @@ img{
     justify-items: center;
   }
 }
-
+@media screen and (max-width: 568px){
+ 
+  .home__img{
+    width:80%;
+    
+  }
+}
 @media screen and (min-width: 1024px){
   .bd-grid{
     margin-left: auto;

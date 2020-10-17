@@ -438,7 +438,7 @@ img{
         }
         &__img{
             width: 457px;
-            bottom: 15%;
+            bottom: 20%;
         }
     }
 
@@ -477,6 +477,15 @@ img{
         }
     }
 
+}
+@media screen and (max-width: 568px){
+   
+    .home__
+    {
+    &__img{
+      width:80%; 
+        }
+    }
 }
 @media screen and(min-width: 1024px){
     .bd-grid{
