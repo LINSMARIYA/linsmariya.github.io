@@ -21,7 +21,7 @@ Welcome to my portfolio! I'm Lins, a dedicated frontend developer passionate abo
 - **Tailwind CSS**: 95%
 - **Typescript**: 85%
 
-  - **Updated Status:** I'm thrilled to share my latest endeavors and professional growth since my college years. Discover my expanded skill set and recent projects that highlight my evolving expertise.
+- **Updated Status:** I'm thrilled to share my latest endeavors and professional growth since my college years. Discover my expanded skill set and recent projects that highlight my evolving expertise.
 
 - **UI Revamp:** Get ready for a visually enhanced and intuitive design. I'm working on revamping the user interface to create a seamless and engaging experience. Expect modern aesthetics and improved navigation.
 
